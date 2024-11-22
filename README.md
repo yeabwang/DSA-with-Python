@@ -1,4 +1,4 @@
-# 🎢 Data Structures & Algorithms: The Python Rollercoaster
+# 🎢 Data Structures & Algorithms
 
 Welcome aboard the DSA Express, where:
 
